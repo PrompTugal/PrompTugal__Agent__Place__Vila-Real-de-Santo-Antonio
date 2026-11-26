@@ -579,28 +579,28 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T11:22Z",
+  "read_at": "2026-11-26T18:37Z",
   "by": "place.vila-real-de-santo-antonio@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Travessia de ciclismo desafia atletas a percorrer 340 quilómetros entre Tróia e Vila Real de Santo António",
-   "url": "https://postal.pt/europedirectalgarve/travessia-de-ciclismo-desafia-atletas-a-percorrer-340-quilometros-entre-troia-e-vila-real-de-santo-antonio/",
-   "source": "Postal do Algarve",
-   "date": "2026-11-25",
-   "read_at": "2026-11-26T11:11:37Z",
+   "title": "Vila Natal traz música, animação e espírito festivo  ao centro de Vila Real de Santo António",
+   "url": "http://www.avozdoalgarve.pt/detalhe.php?id=99264",
+   "source": "A Voz do Algarve",
+   "date": "2026-11-26",
+   "read_at": "2026-11-26T18:26:47Z",
    "names_place": true
   },
   "items": [
    {
-    "title": "Travessia de ciclismo desafia atletas a percorrer 340 quilómetros entre Tróia e Vila Real de Santo António",
-    "url": "https://postal.pt/europedirectalgarve/travessia-de-ciclismo-desafia-atletas-a-percorrer-340-quilometros-entre-troia-e-vila-real-de-santo-antonio/",
-    "published": "2026-11-25T17:34Z",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-26T11:11:37Z",
+    "title": "Vila Natal traz música, animação e espírito festivo  ao centro de Vila Real de Santo António",
+    "url": "http://www.avozdoalgarve.pt/detalhe.php?id=99264",
+    "published": "2026-11-26T18:26Z",
+    "source": "A Voz do Algarve",
+    "source_site": "https://www.avozdoalgarve.pt/",
+    "feed": "https://www.avozdoalgarve.pt/feed/",
+    "read_at": "2026-11-26T18:26:47Z",
     "mentions_place": true,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    }
   ]
  }
