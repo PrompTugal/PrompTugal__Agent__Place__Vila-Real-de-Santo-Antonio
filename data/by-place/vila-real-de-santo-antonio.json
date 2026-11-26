@@ -579,7 +579,7 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T02:33Z",
+  "read_at": "2026-11-26T11:22Z",
   "by": "place.vila-real-de-santo-antonio@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -587,7 +587,7 @@
    "url": "https://postal.pt/europedirectalgarve/travessia-de-ciclismo-desafia-atletas-a-percorrer-340-quilometros-entre-troia-e-vila-real-de-santo-antonio/",
    "source": "Postal do Algarve",
    "date": "2026-11-25",
-   "read_at": "2026-11-26T02:28:26Z",
+   "read_at": "2026-11-26T11:11:37Z",
    "names_place": true
   },
   "items": [
@@ -598,18 +598,7 @@
     "source": "Postal do Algarve",
     "source_site": "https://postal.pt/",
     "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-26T02:28:26Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Vila Natal com mercados, concertos e teatro no centro de Vila Real de Santo António",
-    "url": "https://www.barlavento.pt/vila-natal-vila-real-santo-antonio-programa-2026/",
-    "published": "2026-11-25T10:34Z",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/feed/",
-    "read_at": "2026-11-26T02:28:24Z",
+    "read_at": "2026-11-26T11:11:37Z",
     "mentions_place": true,
     "date": "2026-11-25"
    }
