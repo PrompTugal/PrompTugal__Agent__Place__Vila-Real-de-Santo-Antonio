@@ -8,7 +8,7 @@
  "run_by_session": "https://claude.ai/code/session_016CrbJJcoCJnQM6GGY1xC5K",
  "home": "https://github.com/PrompTugal/PrompTugal__Agent__Place__Vila-Real-de-Santo-Antonio",
  "state": "history and area done; local signals and news read",
- "updated": "2026-11-28T07:37Z",
+ "updated": "2026-11-28T18:38Z",
  "history": {
   "done": true,
   "files": 46,
@@ -25,10 +25,9 @@
  "signals": {
   "read_at": "2026-11-26T11:10:37Z",
   "now_files": "not refreshed: data/by-place/now/*.json is outside my ABP grant (P11)",
-  "news_read_at": "2026-11-28T07:37:37Z",
-  "news_items": 3,
+  "news_read_at": "2026-11-28T18:38Z",
+  "news_items": 1,
   "ipma": "withheld: non-commercial use only; linked, not copied (Dinis, 18 Nov 2026)",
-  "airport": null,
-  "main_headline_date": "2026-11-27"
+  "airport": null
  }
 }
