@@ -579,7 +579,7 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-28T07:36Z",
+  "read_at": "2026-11-28T07:37:37Z",
   "by": "place.vila-real-de-santo-antonio@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -601,6 +601,28 @@
     "read_at": "2026-11-28T07:25:21Z",
     "mentions_place": true,
     "date": "2026-11-27"
+   },
+   {
+    "title": "Vila Natal com mercados, concertos e teatro no centro de Vila Real de Santo António",
+    "url": "https://www.barlavento.pt/vila-natal-vila-real-santo-antonio-programa-2026/",
+    "published": "2026-11-25T10:34Z",
+    "date": "2026-11-25",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Vila Real de Santo António&feed=rss2",
+    "read_at": "2026-11-28T07:34:10Z",
+    "mentions_place": true
+   },
+   {
+    "title": "PAN propõe trocar zonas de asfalto e estacionamento por espaços verdes em Vila Real de Santo António",
+    "url": "https://www.barlavento.pt/pan-espacos-verdes-jardim-ribeirinho-vila-real-santo-antonio/",
+    "published": "2026-11-21T16:39Z",
+    "date": "2026-11-21",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Vila Real de Santo António&feed=rss2",
+    "read_at": "2026-11-28T07:34:10Z",
+    "mentions_place": true
    }
   ]
  }
